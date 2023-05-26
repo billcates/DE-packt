@@ -1,0 +1,31 @@
+Tag,Question ID,Title,Link,Answer Count,Extract_time
+python,231767,What does the &quot;yield&quot; keyword do in Python?,https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python,51,2023-05-26 15:07:41.024024
+python,419163,What does if __name__ == &quot;__main__&quot;: do?,https://stackoverflow.com/questions/419163/what-does-if-name-main-do,46,2023-05-26 15:07:41.024024
+python,394809,Does Python have a ternary conditional operator?,https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator,31,2023-05-26 15:07:41.024024
+python,100003,What are metaclasses in Python?,https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python,25,2023-05-26 15:07:41.024024
+python,82831,How do I check whether a file exists without exceptions?,https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions,40,2023-05-26 15:07:41.024024
+python,38987,How do I merge two dictionaries in a single expression in Python?,https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-in-python,43,2023-05-26 15:07:41.024024
+python,89228,How do I execute a program or call a system command?,https://stackoverflow.com/questions/89228/how-do-i-execute-a-program-or-call-a-system-command,65,2023-05-26 15:07:41.024024
+python,273192,"How do I create a directory, and any missing parent directories?",https://stackoverflow.com/questions/273192/how-do-i-create-a-directory-and-any-missing-parent-directories,27,2023-05-26 15:07:41.024024
+python,522563,Accessing the index in &#39;for&#39; loops,https://stackoverflow.com/questions/522563/accessing-the-index-in-for-loops,26,2023-05-26 15:07:41.024024
+python,952914,How do I make a flat list out of a list of lists?,https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists,36,2023-05-26 15:07:41.024024
+java,11227809,Why is processing a sorted array faster than processing an unsorted array?,https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array,25,2023-05-26 15:07:41.024024
+java,40480,Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?,https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value,90,2023-05-26 15:07:41.024024
+java,6841333,Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?,https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r,10,2023-05-26 15:07:41.024024
+java,309424,How do I read / convert an InputStream into a String in Java?,https://stackoverflow.com/questions/309424/how-do-i-read-convert-an-inputstream-into-a-string-in-java,64,2023-05-26 15:07:41.024024
+java,271526,How do I avoid checking for nulls in Java?,https://stackoverflow.com/questions/271526/how-do-i-avoid-checking-for-nulls-in-java,66,2023-05-26 15:07:41.024024
+java,40471,What are the differences between a HashMap and a Hashtable in Java?,https://stackoverflow.com/questions/40471/what-are-the-differences-between-a-hashmap-and-a-hashtable-in-java,35,2023-05-26 15:07:41.024024
+java,157944,Create ArrayList from array,https://stackoverflow.com/questions/157944/create-arraylist-from-array,42,2023-05-26 15:07:41.024024
+java,363681,How do I generate random integers within a specific range in Java?,https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java,72,2023-05-26 15:07:41.024024
+java,13375357,Proper use cases for Android UserManager.isUserAGoat()?,https://stackoverflow.com/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat,12,2023-05-26 15:07:41.024024
+java,46898,How do I efficiently iterate over each entry in a Java Map?,https://stackoverflow.com/questions/46898/how-do-i-efficiently-iterate-over-each-entry-in-a-java-map,46,2023-05-26 15:07:41.024024
+javascript,5767325,How can I remove a specific item from an array in JavaScript?,https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array-in-javascript,144,2023-05-26 15:07:41.024024
+javascript,178325,How do I check if an element is hidden in jQuery?,https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery,65,2023-05-26 15:07:41.024024
+javascript,1335851,"What does &quot;use strict&quot; do in JavaScript, and what is the reasoning behind it?",https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it,30,2023-05-26 15:07:41.024024
+javascript,503093,How do I redirect to another webpage?,https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage,58,2023-05-26 15:07:41.024024
+javascript,111102,How do JavaScript closures work?,https://stackoverflow.com/questions/111102/how-do-javascript-closures-work,86,2023-05-26 15:07:41.024024
+javascript,336859,var functionName = function() {} vs function functionName() {},https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname,41,2023-05-26 15:07:41.024024
+javascript,1789945,How to check whether a string contains a substring in JavaScript?,https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript,3,2023-05-26 15:07:41.024024
+javascript,208105,How do I remove a property from a JavaScript object?,https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object,38,2023-05-26 15:07:41.024024
+javascript,14220321,How do I return the response from an asynchronous call?,https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call,41,2023-05-26 15:07:41.024024
+javascript,950087,How do I include a JavaScript file in another JavaScript file?,https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file,71,2023-05-26 15:07:41.024024
