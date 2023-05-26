@@ -1,6 +1,7 @@
 #readme file
 
 Data Engineering Task - Packt
+![proposed_architecture](https://github.com/billcates/DE-packt/assets/56115142/f0db63fe-ccc4-46c2-ac22-546eafcce54a)
 
 The project is focused on extracting and analyzing data from the Stack Overflow platform. Here's a summary of the project:
 
