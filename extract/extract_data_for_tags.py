@@ -42,8 +42,7 @@ def fetch_top_answered_questions(tags):
             'order': 'desc',
             'sort': 'votes',
             'pagesize': 50,  # Number of questions to fetch per tag
-            'tagged': tag,
-            'filter': '!9_bDE(fI5'
+            'tagged': tag
         }
 
         response = requests.get(f"{API_URL}/questions", params=params)
